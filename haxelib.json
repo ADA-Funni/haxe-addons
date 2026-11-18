@@ -1,0 +1,13 @@
+{
+  "name": "haxe-addons",
+  "url" : "https://github.com/ADA-Funni/haxe-addons/",
+  "license": "MIT",
+  "tags": ["haxe", "addons", "async"],
+  "description": "Adds new features to Haxe, like @:async functions and @:await vars.",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Added @:async functions and @:await vars.",
+  "contributors": ["ADA-Funni"],
+  "dependencies": {},
+  "main": "Main"
+}

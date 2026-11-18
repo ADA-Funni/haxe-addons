@@ -1,0 +1,9 @@
+# That's where haxe-addons is
+-cp src
+--each
+
+-main Main
+--interp
+--next
+
+tests/async/build.hxml

@@ -4,9 +4,9 @@
   "license": "MIT",
   "tags": ["haxe", "addons", "async"],
   "description": "Adds new features to Haxe, like @:async functions and @:await vars.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "classPath": "src/",
-  "releasenote": "Added @:async functions and @:await vars.",
+  "releasenote": "Changed the licence to MIT in the GitHub repository.",
   "contributors": ["ADA-Funni"],
   "dependencies": {},
   "main": "Main"
